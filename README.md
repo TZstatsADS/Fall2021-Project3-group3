@@ -5,13 +5,14 @@
 
 Term: Fall 2021
 
-+ Team ##
++ Team 3
 + Team members
-	+ team member 1
-	+ team member 2
-	+ team member 3
-	+ team member 4
-	+ team member 5
+	+ Bischoff, Melissa mb4786@columbia.edu
+	+ Dong, Stella zd2268@columbia.edu
+	+ Liu, Chuyang cl4013@columbia.edu
+	+ Luo, Orianne ol2216@columbia.edu
+	+ Ma, Yongxin ym2815@columbia.edu
+	+ Yun, Jee sun jy3112@columbia.edu
 
 + Project summary: In this project, we created ...
 	
