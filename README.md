@@ -14,7 +14,7 @@ Term: Fall 2021
 	+ Ma, Yongxin ym2815@columbia.edu
 	+ Yun, Jee sun jy3112@columbia.edu
 
-+ Project summary: In this project, we created ...
++ Project summary: In this project, we created 2 Machine Learning models for image classifications for noisy labels. Model I is a  Base Convolutional Neural Network (CNN) to classify images. Model II accounts for noisy labels. 
 	
 **Contribution statement**: ([default](doc/a_note_on_contributions.md)) All team members contributed equally in all stages of this project. All team members approve our work presented in this GitHub repository including this contributions statement. 
 
